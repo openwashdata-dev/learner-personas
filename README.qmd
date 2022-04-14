@@ -64,9 +64,11 @@ He is very particular about workflows, file and data management. During the offb
 
 He has three more years until retirement so is reluctant to learn any new tools and feels very uncomfortable with anything outside his normal working environment. He needs someone to show him step by step how to share his research data with the community.
 
-# References
-
 # License
 
 This work is licensed under a [CC-BY-4.0 license](LICENSE.md).
+
+# References
+
+
 

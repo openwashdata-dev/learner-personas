@@ -121,6 +121,10 @@ new tools and feels very uncomfortable with anything outside his normal
 working environment. He needs someone to show him step by step how to
 share his research data with the community.
 
+# License
+
+This work is licensed under a [CC-BY-4.0 license](LICENSE.md).
+
 # References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
